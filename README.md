@@ -75,3 +75,12 @@ Script syntax
         - ... line_frames is the amount of frames after each typed line
 
 
+
+Adding sound
+========================================================================
+
+```sh
+ffmpeg -i your-video.mkv -i your-sound.wav -c:v copy -c:a aac -shortest your-video-with-sound.mkv
+```
+
+
