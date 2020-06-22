@@ -1,0 +1,19 @@
+% clear
+% splash
+# 
+# How to install this program?
+# 
+% wait 3
+% type
+
+> git clone git@github.com:maxdoom-com/shell-recording-tool.git
+> python3 -m venv env
+> env/bin/pip install fire
+
+# and now let's see, how it works...
+$ ./recorder.py run hello.script hello
+
+# and now... let's see the movie...
+$ mplayer hello.mkv
+
+# bye
