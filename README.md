@@ -10,7 +10,7 @@ python3 -m venv env
 env/bin/pip install -r requirements.txt
 ```
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kXG2_LJ7ttQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Installation tutorial on youtube](https://img.youtube.com/vi/kXG2_LJ7ttQ/0.jpg)](https://www.youtube.com/watch?v=kXG2_LJ7ttQ)
 
 
 Required external commands
